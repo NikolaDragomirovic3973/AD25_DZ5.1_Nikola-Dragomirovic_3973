@@ -1,5 +1,4 @@
 * {
-    margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
@@ -316,7 +315,7 @@ h3 {
     color: #555;
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.6em;
-    margin: 0 auto;
+    margin: 22px;
 }
 .p4 {
     margin: 50px 240px;
